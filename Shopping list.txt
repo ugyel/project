@@ -1,5 +1,6 @@
 1. Potatoes
 2. Tomatoes
-3. Chips
+3. Wine
 4. Beer
 5. Onions
+6. Banana
